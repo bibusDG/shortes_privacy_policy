@@ -85,3 +85,12 @@ These terms and conditions are effective as of 2024-12-22
 
 Contact Us
 If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at bibusapps@gmail.com.
+
+
+# Shortes Support
+
+In case of any question about app functionality or other, please contact me via bibusapps@gmail.com.
+Below You will finally short description about app functionality and possibilities:
+- by pressing once "+" icon you can add to your list new short notes
+- by long press you can talk and your message will be saved by text, when pressing mic icon note will be saved
+- when list of notes available, by swipe note left you can add this event to calendar or delete
